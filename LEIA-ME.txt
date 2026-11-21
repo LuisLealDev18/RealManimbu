@@ -1,0 +1,26 @@
+11º TORNEIO REAL MANIMBU — SITE DE RESULTADOS
+
+ARQUIVOS
+- index.php: site público e painel administrativo
+- api.php: autenticação e gravação dos dados
+- data.json: categorias, equipes, confrontos, resultados e artilheiros
+- assets/: brasão e arte do torneio enviados pelo organizador
+
+COMO PUBLICAR
+1. Descompacte o ZIP.
+2. Envie TODOS os arquivos e a pasta assets para a pasta pública do seu hosting (ex.: public_html).
+3. O servidor precisa ter PHP 7.4+ (recomendado PHP 8+) e permitir escrita no arquivo data.json e na pasta.
+4. Acesse o domínio. A página pública não exige login.
+5. Para editar, clique em “Área do administrador”.
+
+ACESSO INICIAL DO ADMINISTRADOR
+Usuário: admin
+Senha: RealManibu2026!
+
+IMPORTANTE
+- Troque a senha padrão antes de divulgar o site. Para isso, edite api.php e altere a senha no trecho de autenticação.
+- Os dados ficam gravados no arquivo data.json no servidor, portanto as atualizações feitas pelo administrador aparecem para todos os visitantes.
+- Faça backup periódico do data.json.
+- O site não força chaveamento matemático: a organização informa manualmente vencedores, confrontos da próxima fase e classificados. Isso atende categorias com quantidades irregulares de equipes.
+- Os confrontos da arte enviada foram pré-cadastrados como ponto de partida. Revise nomes e partidas no painel, pois a imagem tem alguns nomes repetidos/trechos de leitura pouco nítida.
+- O arquivo data.json precisa permanecer gravável pelo PHP. Se o salvamento falhar, ajuste permissões pelo painel do hosting ou peça suporte à hospedagem.

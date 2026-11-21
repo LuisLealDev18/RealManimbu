@@ -1,0 +1,488 @@
+{
+  "tournament": "11º Torneio Real Manimbu",
+  "subtitle": "Esporte, união e muita emoção!",
+  "tribute": "Em homenagem a Tatar, criadora do Real Manimbu",
+  "categories": [
+    {
+      "id": "10-11",
+      "label": "SUB-10/11",
+      "teams": [
+        "TODDY SPORT",
+        "ESTRELA DO FUTURO",
+        "AMIGO DA BOLA",
+        "TROPA DO INFINITO",
+        "TRIGUEMANIA",
+        "REAL MANIMBU",
+        "PIPA SPORT",
+        "SUMARÉ",
+        "GUARÁ",
+        "ESCOLINHA BV",
+        "ESCOLINHA MINHA VIDA"
+      ],
+      "matches": [
+        {
+          "id": "10-11-1",
+          "stage": "Confronto",
+          "home": "TODDY SPORT",
+          "away": "ESTRELA DO FUTURO",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "10-11-2",
+          "stage": "Confronto",
+          "home": "AMIGO DA BOLA",
+          "away": "TROPA DO INFINITO",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "10-11-3",
+          "stage": "Confronto",
+          "home": "TRIGUEMANIA",
+          "away": "REAL MANIMBU",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "10-11-4",
+          "stage": "Confronto",
+          "home": "REAL MANIMBU",
+          "away": "SUMARÉ",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "10-11-5",
+          "stage": "Confronto",
+          "home": "PIPA SPORT",
+          "away": "ESTRELA DO FUTURO",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "10-11-6",
+          "stage": "Confronto",
+          "home": "REAL MANIMBU",
+          "away": "GUARÁ",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "10-11-7",
+          "stage": "Confronto",
+          "home": "ESCOLINHA BV",
+          "away": "ESCOLINHA BV",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "10-11-8",
+          "stage": "Confronto",
+          "home": "ESCOLINHA BV",
+          "away": "ESCOLINHA MINHA VIDA",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        }
+      ],
+      "qualified": [],
+      "scorer": {
+        "name": "",
+        "team": "",
+        "goals": 0
+      },
+      "champion": ""
+    },
+    {
+      "id": "12-13",
+      "label": "SUB-12/13",
+      "teams": [
+        "REAL MANIMBU",
+        "TROPA DO INFINITO",
+        "MENINO DA VILA",
+        "ESCOLINHA BV",
+        "TRIGUEMANIA",
+        "AREZ FC",
+        "FLAMENGUINHO BV",
+        "TODDY SPORT",
+        "GUARÁ",
+        "ESTRELA DO FUTURO",
+        "AMIGO DA BOLA",
+        "PIPA SPORT",
+        "SUMARÉ"
+      ],
+      "matches": [
+        {
+          "id": "12-13-1",
+          "stage": "Confronto",
+          "home": "REAL MANIMBU",
+          "away": "REAL MANIMBU",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "12-13-2",
+          "stage": "Confronto",
+          "home": "TROPA DO INFINITO",
+          "away": "MENINO DA VILA",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "12-13-3",
+          "stage": "Confronto",
+          "home": "ESCOLINHA BV",
+          "away": "TRIGUEMANIA",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "12-13-4",
+          "stage": "Confronto",
+          "home": "TROPA DO INFINITO",
+          "away": "ESCOLINHA BV",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "12-13-5",
+          "stage": "Confronto",
+          "home": "REAL MANIMBU",
+          "away": "ESCOLINHA MINHA VIDA",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "12-13-6",
+          "stage": "Confronto",
+          "home": "AREZ FC",
+          "away": "FLAMENGUINHO BV",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "12-13-7",
+          "stage": "Confronto",
+          "home": "TODDY SPORT",
+          "away": "GUARÁ",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "12-13-8",
+          "stage": "Confronto",
+          "home": "ESTRELA DO FUTURO",
+          "away": "AMIGO DA BOLA",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "12-13-9",
+          "stage": "Confronto",
+          "home": "PIPA SPORT",
+          "away": "SUMARÉ",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        }
+      ],
+      "qualified": [],
+      "scorer": {
+        "name": "",
+        "team": "",
+        "goals": 0
+      },
+      "champion": ""
+    },
+    {
+      "id": "14-15",
+      "label": "SUB-14/15",
+      "teams": [
+        "AMIGO DA BOLA",
+        "SÃO PAULO DE GOIANINHA",
+        "REAL MANIMBU C",
+        "REAL MANIMBU B",
+        "MENINO DA VILA",
+        "ESCOLINHA BV",
+        "ESTRELA DO FUTURO",
+        "TROPA DO INFINITO",
+        "REAL MANIMBU A",
+        "AMÉRICA DA PIPA B",
+        "SIBAÚNA",
+        "AMÉRICA DA PIPA A",
+        "FLAMENGUINHO BV",
+        "GUARÁ",
+        "TRIGUEMANIA",
+        "SUMARÉ"
+      ],
+      "matches": [
+        {
+          "id": "14-15-1",
+          "stage": "Confronto",
+          "home": "AMIGO DA BOLA",
+          "away": "SÃO PAULO DE GOIANINHA",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "14-15-2",
+          "stage": "Confronto",
+          "home": "REAL MANIMBU C",
+          "away": "REAL MANIMBU B",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "14-15-3",
+          "stage": "Confronto",
+          "home": "MENINO DA VILA",
+          "away": "ESCOLINHA BV",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "14-15-4",
+          "stage": "Confronto",
+          "home": "ESTRELA DO FUTURO",
+          "away": "TROPA DO INFINITO",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "14-15-5",
+          "stage": "Confronto",
+          "home": "REAL MANIMBU A",
+          "away": "AMÉRICA DA PIPA B",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "14-15-6",
+          "stage": "Confronto",
+          "home": "SIBAÚNA",
+          "away": "AMÉRICA DA PIPA A",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "14-15-7",
+          "stage": "Confronto",
+          "home": "ESTRELA DO FUTURO",
+          "away": "GUARÁ",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "14-15-8",
+          "stage": "Confronto",
+          "home": "FLAMENGUINHO BV",
+          "away": "TRIGUEMANIA",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "14-15-9",
+          "stage": "Confronto",
+          "home": "SUMARÉ",
+          "away": "",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        }
+      ],
+      "qualified": [],
+      "scorer": {
+        "name": "",
+        "team": "",
+        "goals": 0
+      },
+      "champion": ""
+    },
+    {
+      "id": "16-17",
+      "label": "SUB-16/17",
+      "teams": [
+        "ESCOLINHA BV",
+        "GALÁTICOS",
+        "TROPA DO INFINITO",
+        "MENINOS DA VILA",
+        "GUARÁ",
+        "REAL MANIMBU B",
+        "GALÁTICOS A",
+        "REAL MANIMBU C",
+        "REAL MANIMBU A"
+      ],
+      "matches": [
+        {
+          "id": "16-17-1",
+          "stage": "Confronto",
+          "home": "ESCOLINHA BV",
+          "away": "GALÁTICOS",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "16-17-2",
+          "stage": "Confronto",
+          "home": "TROPA DO INFINITO",
+          "away": "MENINOS DA VILA",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "16-17-3",
+          "stage": "Confronto",
+          "home": "GUARÁ",
+          "away": "REAL MANIMBU B",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "16-17-4",
+          "stage": "Confronto",
+          "home": "GALÁTICOS A",
+          "away": "REAL MANIMBU C",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        },
+        {
+          "id": "16-17-5",
+          "stage": "Confronto",
+          "home": "REAL MANIMBU A",
+          "away": "GALÁTICOS",
+          "home_score": "",
+          "away_score": "",
+          "winner": "",
+          "date": "",
+          "time": "",
+          "location": ""
+        }
+      ],
+      "qualified": [],
+      "scorer": {
+        "name": "",
+        "team": "",
+        "goals": 0
+      },
+      "champion": ""
+    }
+  ]
+}
