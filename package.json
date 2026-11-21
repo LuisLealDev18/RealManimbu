@@ -1,0 +1,7 @@
+{
+  "name": "real-manimbu-tournament",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site de resultados do 11º Torneio Real Manimbu para Vercel",
+  "engines": { "node": ">=18" }
+}
